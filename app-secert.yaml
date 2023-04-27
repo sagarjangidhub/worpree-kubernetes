@@ -1,0 +1,18 @@
+##app-secret.yaml
+apiVersion: v1
+kind: Secret
+metadata:
+  name: app-secret
+type: Opaque
+data:
+  dbname: 4oCcYXBwLWRi4oCd
+  dbuser: 4oCcYXBwLXVzZXLigJ0=
+  dbpass: 4oCcYXBwLXBhc3PigJ0=
+  dbrootpass: 4oCcYXBwLXJvb3RwYXNz4oCd
+
+
+
+
+
+
+
